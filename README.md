@@ -1,5 +1,3 @@
-# Nanasi
-
 Backend & Solana Engineer focused on building systems, developer tooling, and production-grade blockchain applications.
 
 ---
