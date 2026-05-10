@@ -49,7 +49,7 @@ A decentralized lending protocol enabling collateral-backed borrowing.
 
 ---
 
-### Aura
+### Inosuke
 
 **Solana TypeScript SDK**
 
@@ -60,7 +60,7 @@ A developer-focused SDK for interacting with Solana.
 * Supports multiple clusters and custom RPC endpoints
 * Designed for predictable behavior and better developer experience 
 
-🔗 Repository: [https://github.com/spellsaif/aura]
+🔗 Repository: [https://github.com/spellsaif/inosuke]
 
 ---
 
